@@ -111,7 +111,8 @@ int main(){
             
         }
             
-    }}
+    }
+}
     else{
         cout<<"menores a 16 años no pueden proceder";
     }
